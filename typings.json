@@ -1,6 +1,6 @@
 {
   "name": "react-select",
-  "main": "index.d.ts",
+  "main": "lib/Select.d.ts",
   "homepage": "https://github.com/zaytsevvla/typed-react-select",
   "version": "1.0.0",
   "devDependencies": {
