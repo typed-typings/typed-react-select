@@ -70,4 +70,6 @@ interface ISelectProps{
     wrapperStyle?: Object;       // optional style to apply to the component wrapper
 }
 
-export default class Select extends Component<ISelectProps, any> {}
+class Select extends Component<ISelectProps, any> {}
+
+export = Select
