@@ -1,4 +1,4 @@
-import {ReactNode, Component} from 'react';
+import {ReactNode, Component} from 'dt~react';
 
 type stringOrNode = string | ReactNode;
 
